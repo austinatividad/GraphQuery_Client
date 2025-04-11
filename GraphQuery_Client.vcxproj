@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClInclude Include="httplib.h" />
     <ClInclude Include="main.h" />
+    <ClInclude Include="zlib.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="httplib.cpp" />

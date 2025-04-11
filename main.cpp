@@ -373,7 +373,6 @@ httplib::Result performRequestWithRetry(const string& server_link, const Func re
 			case 503:
 			case 504:
 			case 429:
-			case 503:
 			case 507:
 				cout << "Status code: " << res->status << ". \n" << res->body << endl;
 				break;

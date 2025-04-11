@@ -1,0 +1,15 @@
+* a
+* b
+* c
+* d
+* e
+- a b 5
+- a c 10
+- a d 15
+- a e 20
+- b c 3
+- b d 6
+- b e 9
+- c d 2
+- c e 4
+- d e 1
